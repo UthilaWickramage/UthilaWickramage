@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uthila Hansaja Wickramage</h1>
 <h3 align="center">I am a java developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **React Native, React JS, Jersey, MVC Architecture**
+- 🌱 I’m currently learning **Android, React Native, React JS, Jersey, MVC Architecture**
 
 - 📫 How to reach me **uhwickramage@gmaill.com**
 
