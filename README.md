@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uthila Hansaja Wickramage</h1>
 <h3 align="center">I am a java developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Android, C#, ASP.NET**
+- 🌱 I’m currently learning **J2EE, C#, ASP.NET**
 
 - 📫 How to reach me **uhwickramage@gmaill.com**
 
