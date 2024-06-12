@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uthila Hansaja Wickramage</h1>
 <h3 align="center">I am a java and C# developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **AWS, Docker, Jenkins .NET, Microsoft SQL Server, J2EE, Node.js**
+- 🌱 I’m currently learning **AWS, Docker, Swift, Python, Microsoft SQL Server, Node.js, Data Structures & Algorithms**
 
 - 📫 How to reach me **uhwickramage@gmaill.com**
 
