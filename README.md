@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uthila Hansaja Wickramage</h1>
 <h3 align="center">I am a java and C# developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Scanning and Exploitations, Unity, Azure, Project Management**
+- 🌱 I’m currently learning **Scanning and Exploitations, AI, Azure**
 
 - 📫 How to reach me **uhwickramage@gmaill.com**
 
